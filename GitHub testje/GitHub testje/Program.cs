@@ -10,6 +10,7 @@ namespace GitHub_testje
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("mor allee zeg!!!!!");
             Console.WriteLine("mor allee zeg!!!!!!!!!");
         }
     }
